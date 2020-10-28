@@ -10,10 +10,12 @@ region:
 categories:
 - strana
 uid: volby
-facebook: https://www.facebook.com/groups/316533975398022/
-redmine: https://redmine.pirati.cz/projects/volby2017
+facebook: 
+redmine: 
 forum:
 nadřízený tým: republikové předsednictvo
 ---
 
-Připravujeme se na volby v roce 2017! Jak bude probíhat kampaň? Kdo ji naplánuje a jak bude řízena? Jak bude financována? Takové otázky zodpoví právě volební štáb!
+Piráti uspěli v krajských a senátních volbách 2020 a plnou parou se připravujeme na rozhodující volby do Poslanecké Sněmovny Parlamentu České Repubiky v roce 2021! 
+
+Pusťte nás na ně !
