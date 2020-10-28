@@ -16,6 +16,6 @@ forum:
 nadřízený tým: republikové předsednictvo
 ---
 
-Piráti uspěli v krajských a senátních volbách 2020 a plnou parou se připravujeme na rozhodující volby do Poslanecké Sněmovny Parlamentu České Repubiky v roce 2021! 
+Piráti uspěli v krajských a senátních volbách 2020 a plnou parou se připravujeme na rozhodující volby do Poslanecké Sněmovny Parlamentu České Republiky v roce 2021! 
 
 Pusťte nás na ně !
